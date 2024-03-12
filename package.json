@@ -5,6 +5,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
     "dev": "nodemon server.js"
   },
   "keywords": [],
